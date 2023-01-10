@@ -1,4 +1,4 @@
-# food-ecommerce
+# Food-E-commerce_Website-App
 A website to sell food products online
 
 * mobile friendly
@@ -13,7 +13,7 @@ download zip or clone repo (all required files are included)
 
 ### view the website here  
 
-https://peter-kimanzi.github.io/food-ecommerce/
+https://princexz.github.io/Food-E-commerce_Website-App/
 
 
 ## Screenshots
@@ -24,3 +24,6 @@ https://peter-kimanzi.github.io/food-ecommerce/
 
 ![foody3](https://user-images.githubusercontent.com/71552773/205292490-dfcc1bd5-09c5-4eb7-9ae3-95a88bfd2779.PNG)
 
+
+## Author
+* **Prince Solomon** - [princexz](https://github.com/princexz)
