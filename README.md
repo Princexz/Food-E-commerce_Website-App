@@ -25,5 +25,5 @@ https://princexz.github.io/Food-E-commerce_Website-App/
 ![foody3](https://user-images.githubusercontent.com/71552773/205292490-dfcc1bd5-09c5-4eb7-9ae3-95a88bfd2779.PNG)
 
 
-## Author
+## Author :black_nib:
 * **Prince Solomon** - [princexz](https://github.com/princexz)
